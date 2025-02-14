@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ProdutosApp</name>
+    </assembly>
+    <members>
+        <member name="M:ProdutosApp.Controllers.ProdutosController.Post(ProdutosApp.Models.ProdutosPostModel)">
+            <summary>
+            cadastrar o produto
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:ProdutosApp.Controllers.ProdutosController.Put(ProdutosApp.Models.ProdutosPutModel)">
+            <summary>
+            atualizar o produto
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:ProdutosApp.Controllers.ProdutosController.Delete(System.Int32)">
+            <summary>
+            deletar o produto
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:ProdutosApp.Controllers.ProdutosController.GetAll">
+            <summary>
+            buscar todos os produto
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:ProdutosApp.Controllers.ProdutosController.GetById(System.Int32)">
+            <summary>
+            buscar um produto
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

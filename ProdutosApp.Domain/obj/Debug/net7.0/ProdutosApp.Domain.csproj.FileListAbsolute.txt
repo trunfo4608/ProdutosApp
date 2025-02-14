@@ -1,0 +1,11 @@
+C:\Users\trunf\source\repos\ProdutosApp\ProdutosApp.Domain\bin\Debug\net7.0\ProdutosApp.Domain.deps.json
+C:\Users\trunf\source\repos\ProdutosApp\ProdutosApp.Domain\bin\Debug\net7.0\ProdutosApp.Domain.dll
+C:\Users\trunf\source\repos\ProdutosApp\ProdutosApp.Domain\bin\Debug\net7.0\ProdutosApp.Domain.pdb
+C:\Users\trunf\source\repos\ProdutosApp\ProdutosApp.Domain\obj\Debug\net7.0\ProdutosApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trunf\source\repos\ProdutosApp\ProdutosApp.Domain\obj\Debug\net7.0\ProdutosApp.Domain.AssemblyInfoInputs.cache
+C:\Users\trunf\source\repos\ProdutosApp\ProdutosApp.Domain\obj\Debug\net7.0\ProdutosApp.Domain.AssemblyInfo.cs
+C:\Users\trunf\source\repos\ProdutosApp\ProdutosApp.Domain\obj\Debug\net7.0\ProdutosApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\trunf\source\repos\ProdutosApp\ProdutosApp.Domain\obj\Debug\net7.0\ProdutosApp.Domain.dll
+C:\Users\trunf\source\repos\ProdutosApp\ProdutosApp.Domain\obj\Debug\net7.0\refint\ProdutosApp.Domain.dll
+C:\Users\trunf\source\repos\ProdutosApp\ProdutosApp.Domain\obj\Debug\net7.0\ProdutosApp.Domain.pdb
+C:\Users\trunf\source\repos\ProdutosApp\ProdutosApp.Domain\obj\Debug\net7.0\ref\ProdutosApp.Domain.dll

@@ -1,0 +1,17 @@
+C:\Users\trunf\source\repos\ProdutosApp\ProdutosApp.Data\bin\Debug\net7.0\ProdutosApp.Data.deps.json
+C:\Users\trunf\source\repos\ProdutosApp\ProdutosApp.Data\bin\Debug\net7.0\ProdutosApp.Data.runtimeconfig.json
+C:\Users\trunf\source\repos\ProdutosApp\ProdutosApp.Data\bin\Debug\net7.0\ProdutosApp.Data.dll
+C:\Users\trunf\source\repos\ProdutosApp\ProdutosApp.Data\bin\Debug\net7.0\ProdutosApp.Data.pdb
+C:\Users\trunf\source\repos\ProdutosApp\ProdutosApp.Data\bin\Debug\net7.0\ProdutosApp.Domain.dll
+C:\Users\trunf\source\repos\ProdutosApp\ProdutosApp.Data\bin\Debug\net7.0\ProdutosApp.Domain.pdb
+C:\Users\trunf\source\repos\ProdutosApp\ProdutosApp.Data\obj\Debug\net7.0\ProdutosApp.Data.csproj.AssemblyReference.cache
+C:\Users\trunf\source\repos\ProdutosApp\ProdutosApp.Data\obj\Debug\net7.0\ProdutosApp.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trunf\source\repos\ProdutosApp\ProdutosApp.Data\obj\Debug\net7.0\ProdutosApp.Data.AssemblyInfoInputs.cache
+C:\Users\trunf\source\repos\ProdutosApp\ProdutosApp.Data\obj\Debug\net7.0\ProdutosApp.Data.AssemblyInfo.cs
+C:\Users\trunf\source\repos\ProdutosApp\ProdutosApp.Data\obj\Debug\net7.0\ProdutosApp.Data.csproj.CoreCompileInputs.cache
+C:\Users\trunf\source\repos\ProdutosApp\ProdutosApp.Data\obj\Debug\net7.0\Produtos.14635598.Up2Date
+C:\Users\trunf\source\repos\ProdutosApp\ProdutosApp.Data\obj\Debug\net7.0\ProdutosApp.Data.dll
+C:\Users\trunf\source\repos\ProdutosApp\ProdutosApp.Data\obj\Debug\net7.0\refint\ProdutosApp.Data.dll
+C:\Users\trunf\source\repos\ProdutosApp\ProdutosApp.Data\obj\Debug\net7.0\ProdutosApp.Data.pdb
+C:\Users\trunf\source\repos\ProdutosApp\ProdutosApp.Data\obj\Debug\net7.0\ProdutosApp.Data.genruntimeconfig.cache
+C:\Users\trunf\source\repos\ProdutosApp\ProdutosApp.Data\obj\Debug\net7.0\ref\ProdutosApp.Data.dll
